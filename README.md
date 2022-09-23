@@ -5,7 +5,7 @@
 -->
 
 - 🔭 I’m currently working on Nearmistry.com & Usherr.
-- 🌱 I’m currently learning ReactJs, NestJs and advance APIs.
+- 🌱 I’m currently learning technologies related to WEB.
 - 👯 I’m looking to collaborate on projects solves real world problem.  
 - 📫 How to reach me: [`LinkedIn`](https://in.linkedin.com/in/shubham-panchal-4530901b5), `panchalshubham826@gmail.com`
  #### Thanks for this kind visit❤️
